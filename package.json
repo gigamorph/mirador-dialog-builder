@@ -1,0 +1,23 @@
+{
+  "name": "mirador-dialog-builder",
+  "version": "0.1.0",
+  "description": "Override Mirador's DialogBuilder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gigamorph/mirador-dialog-builder.git"
+  },
+  "keywords": [
+    "IIIF",
+    "Mirador"
+  ],
+  "author": "Seong-June Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gigamorph/mirador-dialog-builder/issues"
+  },
+  "homepage": "https://github.com/gigamorph/mirador-dialog-builder#readme"
+}
